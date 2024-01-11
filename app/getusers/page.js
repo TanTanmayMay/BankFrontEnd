@@ -154,7 +154,7 @@ const ulist = [{
 
 export default function TableDemo() {
   return (
-    <div className="ml-10 mr-10 mt-[10vh]">
+    <div className="ml-10 mr-10">
         <div>
 
         </div>
